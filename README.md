@@ -40,5 +40,6 @@ I'm a Computer Science student at Vellore Institute of Technology, with interest
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
     <a href="https://grpc.io/" target="_blank"><img src="https://img.shields.io/badge/gRPC-02303A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"></a>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   </div>
 </div>
