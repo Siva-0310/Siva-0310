@@ -15,8 +15,8 @@ I'm a Computer Science student at Vellore Institute of Technology, with interest
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/siva-113736231/)
-- [Email](krishna.chadalawada1923@gmail.com)
+- LinkedIn (https://www.linkedin.com/in/siva-113736231/)
+- Email (krishna.chadalawada1923@gmail.com)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <!-- Row 1 - Python-related -->
@@ -43,3 +43,4 @@ I'm a Computer Science student at Vellore Institute of Technology, with interest
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   </div>
 </div>
+
